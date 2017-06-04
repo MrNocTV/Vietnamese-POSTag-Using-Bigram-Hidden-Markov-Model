@@ -1,0 +1,71 @@
+Np V Np A A V
+N V R E N N N N A M M Nu
+N Np C V N E N
+N V N V CC V V A E N C N A
+Np V N V N
+Np R V N A 
+R M N R V V N E N P
+N R V N R A
+N V Np R V V
+Np V V P R
+Np R V V P R
+X C N 
+X C N V N E N N
+X C N V N E N V Nc V R A E N N
+L N M M N E N N P R A V N
+L N M M N E N
+L N M M
+N V N A M M V V E L Nc M Nu 
+N V N A M M V V
+N V N A M M
+N V N
+Np V Np V
+P R V N
+N V N
+N V N V
+N V N V CC V V A E N
+N V N V CC V V A E N C N A
+A M N N
+P V 
+N P V
+Np V V N 
+N V R V V
+Np R V R
+Np R V R C V N R
+X C N V N
+X C N V N E N
+V N E N 
+Np A R A Nc Np
+Np V V N Np
+Np V E Np
+N V E N N
+N V R V
+Np V V V L N R	
+Np V V
+V M M M N
+Np V V N R R V Np
+N V C R P V
+M N X V N R
+Np V Np
+N A N N A
+N A V V L N
+V N T V N
+Nc Np E N N
+P V L N
+N N N
+N V P
+N V C Np V V A N
+N N Np R V A E N N
+N A V R N CC N
+N N V N A
+N M N V V N N Np
+Np V N V A
+Np V C R V R Nc Np
+N E N R V R V V
+Np V N A V
+Np V E Np
+N A E Np N V V R
+P R V N V A C A
+Np V N P CC R V E Np
+N N R V M Nu
+Np V V
